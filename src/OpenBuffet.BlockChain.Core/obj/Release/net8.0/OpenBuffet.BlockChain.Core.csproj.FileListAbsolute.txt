@@ -1,0 +1,12 @@
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\src\OpenBuffet.BlockChain.Core\bin\Release\net8.0\OpenBuffet.BlockChain.Core.deps.json
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\src\OpenBuffet.BlockChain.Core\bin\Release\net8.0\OpenBuffet.BlockChain.Core.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\src\OpenBuffet.BlockChain.Core\bin\Release\net8.0\OpenBuffet.BlockChain.Core.pdb
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\src\OpenBuffet.BlockChain.Core\obj\Release\net8.0\OpenBuffet.BlockChain.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\src\OpenBuffet.BlockChain.Core\obj\Release\net8.0\OpenBuffet.BlockChain.Core.AssemblyInfoInputs.cache
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\src\OpenBuffet.BlockChain.Core\obj\Release\net8.0\OpenBuffet.BlockChain.Core.AssemblyInfo.cs
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\src\OpenBuffet.BlockChain.Core\obj\Release\net8.0\OpenBuffet.BlockChain.Core.csproj.CoreCompileInputs.cache
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\src\OpenBuffet.BlockChain.Core\obj\Release\net8.0\OpenBuffet.BlockChain.Core.sourcelink.json
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\src\OpenBuffet.BlockChain.Core\obj\Release\net8.0\OpenBuffet.BlockChain.Core.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\src\OpenBuffet.BlockChain.Core\obj\Release\net8.0\refint\OpenBuffet.BlockChain.Core.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\src\OpenBuffet.BlockChain.Core\obj\Release\net8.0\OpenBuffet.BlockChain.Core.pdb
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\src\OpenBuffet.BlockChain.Core\obj\Release\net8.0\ref\OpenBuffet.BlockChain.Core.dll

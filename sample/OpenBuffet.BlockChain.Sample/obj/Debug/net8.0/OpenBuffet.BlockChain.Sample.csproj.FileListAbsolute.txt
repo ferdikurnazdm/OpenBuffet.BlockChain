@@ -1,0 +1,15 @@
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\sample\OpenBuffet.BlockChain.Sample\bin\Debug\net8.0\OpenBuffet.BlockChain.Sample.exe
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\sample\OpenBuffet.BlockChain.Sample\bin\Debug\net8.0\OpenBuffet.BlockChain.Sample.deps.json
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\sample\OpenBuffet.BlockChain.Sample\bin\Debug\net8.0\OpenBuffet.BlockChain.Sample.runtimeconfig.json
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\sample\OpenBuffet.BlockChain.Sample\bin\Debug\net8.0\OpenBuffet.BlockChain.Sample.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\sample\OpenBuffet.BlockChain.Sample\bin\Debug\net8.0\OpenBuffet.BlockChain.Sample.pdb
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\sample\OpenBuffet.BlockChain.Sample\obj\Debug\net8.0\OpenBuffet.BlockChain.Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\sample\OpenBuffet.BlockChain.Sample\obj\Debug\net8.0\OpenBuffet.BlockChain.Sample.AssemblyInfoInputs.cache
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\sample\OpenBuffet.BlockChain.Sample\obj\Debug\net8.0\OpenBuffet.BlockChain.Sample.AssemblyInfo.cs
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\sample\OpenBuffet.BlockChain.Sample\obj\Debug\net8.0\OpenBuffet.BlockChain.Sample.csproj.CoreCompileInputs.cache
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\sample\OpenBuffet.BlockChain.Sample\obj\Debug\net8.0\OpenBuffet.BlockChain.Sample.sourcelink.json
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\sample\OpenBuffet.BlockChain.Sample\obj\Debug\net8.0\OpenBuffet.BlockChain.Sample.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\sample\OpenBuffet.BlockChain.Sample\obj\Debug\net8.0\refint\OpenBuffet.BlockChain.Sample.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\sample\OpenBuffet.BlockChain.Sample\obj\Debug\net8.0\OpenBuffet.BlockChain.Sample.pdb
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\sample\OpenBuffet.BlockChain.Sample\obj\Debug\net8.0\OpenBuffet.BlockChain.Sample.genruntimeconfig.cache
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.BlockChain\sample\OpenBuffet.BlockChain.Sample\obj\Debug\net8.0\ref\OpenBuffet.BlockChain.Sample.dll
